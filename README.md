@@ -7,11 +7,11 @@ This is the first course I took in the University of Michigan, partially to full
 * 1925-1949: Chinese Civil War and Invasion of Japanese
 * 1949-1956: The Establishment and Constructionof PRC
 * 1956-1976: Endless Political Movements under Mao
-* 1978-: Economic Reform
+* 1978-: Economic Reform and the Resurgence of Authoritarianism 
 
 ---
 
-這是我在密歇根大學上的第一門課, 部分是為了滿足「人文科學」的學分. 這門課介紹的是1644至2019年的中國歷史. 西方研究者通常將清朝視作一個類似奧斯曼, 哈布斯堡的前現代帝國, 當然, 這也很合理. 主要的歷史斷代和中國大陸的教科書類似:
+這是我在密歇根大學上的第一門課, 部分是為了滿足「人文科學」的學分. 這門課介紹的是1644至2019年的中國歷史. 西方研究者通常將清朝視作一個類似奧斯曼, 哈布斯堡的前現代帝國, 當然, 這也很合理. 主要的歷史斷代和中國大陸的教科書一致, 這也側面顯示了密大中國研究圈的親中傾向:
 
 * 1618-1860: 清朝的興起和衰落
 * 1860-1894: 衝擊, 改革, 以及最終的失敗
@@ -20,4 +20,4 @@ This is the first course I took in the University of Michigan, partially to full
 * 1925-1949: 國共內戰和日本的入侵
 * 1949-1956: 中共建政和國家建設
 * 1956-1976: 二十年的政治運動
-* 1978-: 改革開放
+* 1978-: 改革開放和威權主義的復起
